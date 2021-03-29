@@ -1,32 +1,35 @@
 h1 {
     color: red;
 }
+
 h2 {
     color: green;
 }
 
-Body{
+Body {
     background-color: grey;
 }
 
-#absatz{
+#absatz {
     color: yellow;
     background-color: red;
 }
 
-#absatz{
+#absatz {
     color: blue;
+    text-decoration: underline;
 }
 
 #ipsum {
     font-size: 1.5em;
 }
 
-img{
+img {
     width: 48vw;
     Height: auto;
 }
-#bild2{
+
+#bild2 {
     height: 50vh;
     width:  auto;
 }
