@@ -11,8 +11,22 @@ Body{
 
 #absatz{
     color: yellow;
+    background-color: red;
 }
 
 #absatz{
     color: blue;
+}
+
+#ipsum {
+    font-size: 1.5em;
+}
+
+img{
+    width: 48vw;
+    Height: auto;
+}
+#bild2{
+    height: 50vh;
+    width:  auto;
 }
