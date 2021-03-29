@@ -1,0 +1,61 @@
+.querlinie1 {
+    width: 68vh;
+    margin-left: 5vh;
+    height: 0.2em;
+    background-color: black;
+    border: none;
+}
+
+.links {
+    margin-left : 25vh;
+}
+
+.rechts 
+{
+    position:absolute;
+    left : 55vh;
+}
+.berufsbezeichnung {
+    font-size: 1.4em;
+    margin-left: 20vh;
+}
+.bewerbungsbild {
+    float: right;
+    margin-right: 90vh;
+}
+
+.querlinie2 {
+    width: 68vh;
+    margin-left: 20vh;
+    height: 0.2em;
+    background-color: black;
+    border: none;
+}
+.ort_datum {
+    position:absolute;
+    left: 30vh;
+}
+.unterschrift {
+    position: absolute;
+    left: 60vh
+}
+
+.entwickler {
+    color: rgb(235, 8, 148);
+}
+
+.admin {
+    color: rgb(213, 235, 14);
+}
+
+.werkstudent {
+    color: rgb(184, 12, 161);
+}
+
+.studium {
+    color:rgb(71, 255, 126);
+}
+
+.abitur {
+    color:rgb(81, 153, 13);
+}
