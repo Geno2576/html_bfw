@@ -1,7 +1,18 @@
 h1 {
     color: red;
 }
+h2 {
+    color: green;
+}
 
-h2{
-    color: seagreen;
+Body{
+    background-color: grey;
+}
+
+#absatz{
+    color: yellow;
+}
+
+#absatz{
+    color: blue;
 }
